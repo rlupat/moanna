@@ -1,2 +1,2 @@
-# monna
-Multi-Omics Neural Network Algorithm for Predicting Breast Cancer Subtypes
+# moanna
+Multi-Omics Autoencoders-based Neural Network Algorithm for Predicting Breast Cancer Subtypes
